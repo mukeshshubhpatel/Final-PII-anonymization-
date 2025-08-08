@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+spacy
+presidio-analyzer
+presidio-anonymizer
+regex
+axios
